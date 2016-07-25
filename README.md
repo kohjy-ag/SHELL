@@ -1,0 +1,2 @@
+# SHELL
+/home/kohjy/GIT
